@@ -14,10 +14,11 @@ $ cat experiment.log
 > Scheduled Termination Date: 31/07/2026
 > Probability of success: 67  
 > 
-> [INFO] First instance of cooperative student detected
+> [INFO] First instance of cooperative software engineering student detected
 > [WARN] No control group available
 > [INFO] Experiment in progress:
-> [INFO] █████████████████░░░ 85%
+> [INFO] ████████████████████ 100%
+> [INFO] Termination Date: 14/07/2026
 ```
 
 ---
